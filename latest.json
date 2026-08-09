@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "0.1.2",
-  "apkUrl": "https://github.com/josmanov/teleflix-releases/releases/download/v0.1.2/TeleFlix-0.1.2.apk",
-  "notes": "beta v0.1.2 - First release-signed build. If you used the debug beta, uninstall it and install this APK once. Series covers on Home, Xtream import picker, smoother Home UI."
+  "versionCode": 4,
+  "versionName": "0.1.3",
+  "apkUrl": "https://github.com/josmanov/teleflix-releases/releases/download/v0.1.3/TeleFlix-0.1.3.apk",
+  "notes": "beta v0.1.3 — Red default accent, denser text sizes (former Small is now Normal), live theme wordmark, version under logo, system nav sounds, phone touch remote, Quick menu icons."
 }
