@@ -1,6 +1,6 @@
 {
-    "versionCode":  2,
-    "versionName":  "0.1.1",
-    "apkUrl":  "https://github.com/josmanov/teleflix-releases/releases/download/v0.1.1/TeleFlix-0.1.1-debug.apk",
-    "notes":  "beta v0.1.1 — Series covers on Home, Xtream import picker (Live/Movies/Shows), smoother Home focus \u0026 loading, cleaner TopBar."
+  "versionCode": 2,
+  "versionName": "0.1.1",
+  "apkUrl": "https://github.com/josmanov/teleflix-releases/releases/download/v0.1.1/TeleFlix-0.1.1-debug.apk",
+  "notes": "beta v0.1.1 - Series covers on Home, Xtream import picker (Live/Movies/Shows), smoother Home focus and loading, cleaner TopBar."
 }
