@@ -95,9 +95,25 @@ Demo content may appear until you add your own playlist.
 
 ---
 
+## Copyright
+
+© 2026 **Josmanov**. All rights reserved.
+
+TeleFlix branding and release artifacts in this repository are proprietary.  
+APKs here are for end-user installation only. Source code is **not** public.
+
+---
+
 ## Disclaimer
 
-TeleFlix is an **unofficial beta** client. You must use playlists / credentials you are allowed to use. This project does not provide streams, accounts, or copyrighted content. Screenshots show a personal playlist for UI demonstration only.
+TeleFlix is an **unofficial beta** playlist player for Android TV.
+
+- It does **not** include, sell, or host any streams, accounts, or media catalogs.
+- You add your own **Xtream Codes** or **M3U** playlist and are responsible for using only credentials / playlists you are allowed to use.
+- Not affiliated with any TV network, studio, or streaming service.
+- Provided **as-is**, without warranty of any kind.
+
+Screenshots show a personal playlist for UI demonstration only.
 
 ---
 
