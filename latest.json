@@ -1,1 +1,6 @@
-{"apkUrl":"https://github.com/josmanov/teleflix/releases/download/v0.1.3/TeleFlix-0.1.3.apk","versionCode":4,"versionName":"0.1.3","notes":"beta v0.1.3 - Red default accent, denser text sizes (former Small is now Normal), live theme wordmark, version under logo, system nav sounds, phone touch remote, Quick menu icons."}
+{
+  "apkUrl": "https://github.com/josmanov/teleflix/releases/download/v0.1.4/TeleFlix-0.1.4.apk",
+  "versionCode": 5,
+  "versionName": "0.1.4",
+  "notes": "beta v0.1.4 - Premium unlock (password/mock store), free feature gates, Demo playlist removed."
+}
