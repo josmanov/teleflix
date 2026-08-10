@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "0.3.2",
-  "apkUrl": "https://github.com/josmanov/teleflix/releases/download/v0.3.2/TeleFlix-0.3.2.apk",
-  "notes": "beta v0.3.2 - Iceland IS country code flags for Live groups."
+  "versionCode": 12,
+  "versionName": "0.3.3",
+  "apkUrl": "https://github.com/josmanov/teleflix/releases/download/v0.3.3/TeleFlix-0.3.3.apk",
+  "notes": "beta v0.3.3 - Free vs Premium comparison, gold Premium UI, monthly 7-day trial copy."
 }
