@@ -1,6 +1,6 @@
 {
-  "apkUrl": "https://github.com/josmanov/teleflix/releases/download/v0.1.4/TeleFlix-0.1.4.apk",
-  "versionCode": 5,
-  "versionName": "0.1.4",
-  "notes": "beta v0.1.4 - Premium unlock (password/mock store), free feature gates, Demo playlist removed."
+  "versionCode": 8,
+  "versionName": "0.2",
+  "apkUrl": "https://github.com/josmanov/teleflix/releases/download/v0.2/TeleFlix-0.2.apk",
+  "notes": "beta v0.2 — playlist cards, cover→search focus, Settings chrome polish, reliable update checks."
 }
