@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "0.2",
-  "apkUrl": "https://github.com/josmanov/teleflix/releases/download/v0.2/TeleFlix-0.2.apk",
-  "notes": "beta v0.2 - playlist cards, cover to search focus, Settings chrome polish, reliable update checks."
+  "versionCode": 9,
+  "versionName": "0.3",
+  "apkUrl": "https://github.com/josmanov/teleflix/releases/download/v0.3/TeleFlix-0.3.apk",
+  "notes": "beta v0.3 - Live group country flags and scroll crash fix."
 }
