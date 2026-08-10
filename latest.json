@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "0.3.3",
-  "apkUrl": "https://github.com/josmanov/teleflix/releases/download/v0.3.3/TeleFlix-0.3.3.apk",
-  "notes": "beta v0.3.3 - Free vs Premium comparison, Guide tab, gold Premium UI, monthly 7-day trial."
+  "versionCode": 13,
+  "versionName": "0.3.4",
+  "apkUrl": "https://github.com/josmanov/teleflix/releases/download/v0.3.4/TeleFlix-0.3.4.apk",
+  "notes": "beta v0.3.4 - Sync finishes when catalogs are saved; Search indexes in the background. Real progress. Opt-in diagnostics. Faster remove/reload."
 }
