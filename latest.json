@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "0.4",
-  "apkUrl": "https://github.com/josmanov/teleflix/releases/download/v0.4/TeleFlix-0.4.apk",
-  "notes": "beta v0.4 — TV focus polish, size-based remove wait times, Settings edge scroll, and What's New with past release history."
+  "versionCode": 17,
+  "versionName": "0.4.1",
+  "apkUrl": "https://github.com/josmanov/teleflix/releases/download/v0.4.1/TeleFlix-0.4.1.apk",
+  "notes": "beta v0.4.1 — Catalogs organizer focus, snappy reorder, vertical What's New notes."
 }
